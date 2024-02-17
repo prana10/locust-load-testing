@@ -1,2 +1,3 @@
 environment-locust/
 *.pyc
+.env
